@@ -1,0 +1,4 @@
+C:\Users\Alex\source\repos\Scientific Calculator\obj\Debug\Scientific Calculator.vbprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Scientific Calculator\obj\Debug\Scientific_Calculator.clear.resources
+C:\Users\Alex\source\repos\Scientific Calculator\obj\Debug\Scientific_Calculator.Resources.resources
+C:\Users\Alex\source\repos\Scientific Calculator\obj\Debug\Scientific Calculator.vbproj.GenerateResource.cache
